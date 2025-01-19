@@ -1,0 +1,53 @@
+{
+    "name": "pymodpack",
+    "version": "3.0.0",
+    "factorio_version": "2.0",
+    "title": "Pyanodons Modpack",
+    "author": "Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232",
+    "contact": "https://discord.gg/SBHM3h5Utj",
+    "homepage": "https://github.com/pyanodon/pymodpack",
+    "description": "",
+    "dependencies": [
+        "base >= 2.0.28",
+        "pyalienlife >= 3.0.33",
+        "pyalienlifegraphics >= 3.0.7",
+        "pyalienlifegraphics2 >= 3.0.1",
+        "pyalienlifegraphics3 >= 3.0.2",
+        "pyalternativeenergy >= 3.1.15",
+        "pyalternativeenergygraphics >= 3.0.5",
+        "pycoalprocessing >= 3.0.28",
+        "pycoalprocessinggraphics >= 3.0.3",
+        "pyfusionenergy >= 3.0.10",
+        "pyfusionenergygraphics >= 3.0.3",
+        "pyhightech >= 3.0.10",
+        "pyhightechgraphics >= 3.0.2",
+        "pyindustry >= 3.0.11",
+        "pyindustrygraphics >= 3.0.0",
+        "pypetroleumhandling >= 3.0.11",
+        "pypetroleumhandlinggraphics >= 3.0.4",
+        "pypostprocessing >= 3.0.22",
+        "pyrawores >= 3.0.12",
+        "pyraworesgraphics >= 3.0.3",
+
+        "? enable-all-feature-flags >= 1.0.2",
+        "? elevated-rails >= 2.0.28",
+        "? Milestones >= 1.4.3",
+        "? cybersyn >= 2.0.16",
+        "? not-enough-parameters >= 1.0.1",
+
+        "! wret-beacon-rebalance-mod",
+        "! BigBags",
+        "! ResearchFog",
+        "! omnimatter_energy",
+        "! space-age"
+    ],
+    "package": {
+        "ignore": [],
+        "scripts": {}
+    },
+    "quality_required": false,
+    "space_travel_required": false,
+    "spoiling_required": false,
+    "freezing_required": false,
+    "segmented_units_required": false
+}
