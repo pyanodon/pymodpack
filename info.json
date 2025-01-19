@@ -6,7 +6,7 @@
     "author": "Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232",
     "contact": "https://discord.gg/SBHM3h5Utj",
     "homepage": "https://github.com/pyanodon/pymodpack",
-    "description": "",
+    "description": "The offical pY modpack with dependancies on all mods. Additionally contains optional dependancies on pY recommended mods. WARNING! This mod is very challenging with thousands of recipes. Expect a 1000+ hour long game!",
     "dependencies": [
         "base >= 2.0.28",
         "pyalienlife >= 3.0.33",

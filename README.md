@@ -1,4 +1,4 @@
-# pY Industry
+# pY Modpack
 ## Bug Reports and Feedback
 
 Please use a dedicated repository [pybugreports](https://github.com/pyanodon/pybugreports) for bug reports and feedback.
